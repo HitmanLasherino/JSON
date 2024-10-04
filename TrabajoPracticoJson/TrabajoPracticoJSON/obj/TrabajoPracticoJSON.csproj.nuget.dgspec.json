@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hitman\\Documents\\GitHub\\GonzaGit\\json\\TrabajoPractivoJSON\\TrabajoPractivoJSON.csproj": {}
+    "C:\\Users\\Hitman\\Documents\\GitHub\\GonzaGit\\json\\TrabajoPracticoJson\\TrabajoPracticoJSON\\TrabajoPracticoJSON.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hitman\\Documents\\GitHub\\GonzaGit\\json\\TrabajoPractivoJSON\\TrabajoPractivoJSON.csproj": {
+    "C:\\Users\\Hitman\\Documents\\GitHub\\GonzaGit\\json\\TrabajoPracticoJson\\TrabajoPracticoJSON\\TrabajoPracticoJSON.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hitman\\Documents\\GitHub\\GonzaGit\\json\\TrabajoPractivoJSON\\TrabajoPractivoJSON.csproj",
-        "projectName": "TrabajoPractivoJSON",
-        "projectPath": "C:\\Users\\Hitman\\Documents\\GitHub\\GonzaGit\\json\\TrabajoPractivoJSON\\TrabajoPractivoJSON.csproj",
+        "projectUniqueName": "C:\\Users\\Hitman\\Documents\\GitHub\\GonzaGit\\json\\TrabajoPracticoJson\\TrabajoPracticoJSON\\TrabajoPracticoJSON.csproj",
+        "projectName": "TrabajoPracticoJSON",
+        "projectPath": "C:\\Users\\Hitman\\Documents\\GitHub\\GonzaGit\\json\\TrabajoPracticoJson\\TrabajoPracticoJSON\\TrabajoPracticoJSON.csproj",
         "packagesPath": "C:\\Users\\Hitman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hitman\\Documents\\GitHub\\GonzaGit\\json\\TrabajoPractivoJSON\\obj\\",
+        "outputPath": "C:\\Users\\Hitman\\Documents\\GitHub\\GonzaGit\\json\\TrabajoPracticoJson\\TrabajoPracticoJSON\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hitman\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -42,12 +42,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[12.0.3, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

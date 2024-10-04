@@ -1,32 +1,81 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "Newtonsoft.Json/12.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Newtonsoft.Json/12.0.3": {
+      "sha512": "6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "type": "package",
+      "path": "newtonsoft.json/12.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "newtonsoft.json.12.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Newtonsoft.Json >= 14.0.0"
+      "Newtonsoft.Json >= 12.0.3"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\TheSortty\\.nuget\\packages\\": {}
+    "C:\\Users\\Hitman\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TheSortty\\Desktop\\JSON\\TrabajoPractivoJSON\\TrabajoPractivoJSON.csproj",
+      "projectUniqueName": "C:\\Users\\Hitman\\Documents\\GitHub\\GonzaGit\\json\\TrabajoPractivoJSON\\TrabajoPractivoJSON.csproj",
       "projectName": "TrabajoPractivoJSON",
-      "projectPath": "C:\\Users\\TheSortty\\Desktop\\JSON\\TrabajoPractivoJSON\\TrabajoPractivoJSON.csproj",
-      "packagesPath": "C:\\Users\\TheSortty\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TheSortty\\Desktop\\JSON\\TrabajoPractivoJSON\\obj\\",
+      "projectPath": "C:\\Users\\Hitman\\Documents\\GitHub\\GonzaGit\\json\\TrabajoPractivoJSON\\TrabajoPractivoJSON.csproj",
+      "packagesPath": "C:\\Users\\Hitman\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Hitman\\Documents\\GitHub\\GonzaGit\\json\\TrabajoPractivoJSON\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\TheSortty\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Hitman\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
@@ -50,7 +99,7 @@
         "dependencies": {
           "Newtonsoft.Json": {
             "target": "Package",
-            "version": "[14.0.0, )"
+            "version": "[12.0.3, )"
           }
         },
         "imports": [
@@ -75,9 +124,10 @@
   },
   "logs": [
     {
-      "code": "NU1100",
-      "level": "Error",
-      "message": "No se puede resolver 'Newtonsoft.Json (>= 14.0.0)' para 'net8.0'.",
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Newtonsoft.Json' 12.0.3 has a known high severity vulnerability, https://github.com/advisories/GHSA-5crp-9r3c-p9vr",
       "libraryId": "Newtonsoft.Json",
       "targetGraphs": [
         "net8.0"

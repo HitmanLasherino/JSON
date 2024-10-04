@@ -1,0 +1,15 @@
+C:\Users\Hitman\Documents\GitHub\GonzaGit\json\TrabajoPracticoJson\TrabajoPracticoJSON\bin\Debug\net8.0\TrabajoPracticoJSON.exe
+C:\Users\Hitman\Documents\GitHub\GonzaGit\json\TrabajoPracticoJson\TrabajoPracticoJSON\bin\Debug\net8.0\TrabajoPracticoJSON.deps.json
+C:\Users\Hitman\Documents\GitHub\GonzaGit\json\TrabajoPracticoJson\TrabajoPracticoJSON\bin\Debug\net8.0\TrabajoPracticoJSON.runtimeconfig.json
+C:\Users\Hitman\Documents\GitHub\GonzaGit\json\TrabajoPracticoJson\TrabajoPracticoJSON\bin\Debug\net8.0\TrabajoPracticoJSON.dll
+C:\Users\Hitman\Documents\GitHub\GonzaGit\json\TrabajoPracticoJson\TrabajoPracticoJSON\bin\Debug\net8.0\TrabajoPracticoJSON.pdb
+C:\Users\Hitman\Documents\GitHub\GonzaGit\json\TrabajoPracticoJson\TrabajoPracticoJSON\obj\Debug\net8.0\TrabajoPracticoJSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hitman\Documents\GitHub\GonzaGit\json\TrabajoPracticoJson\TrabajoPracticoJSON\obj\Debug\net8.0\TrabajoPracticoJSON.AssemblyInfoInputs.cache
+C:\Users\Hitman\Documents\GitHub\GonzaGit\json\TrabajoPracticoJson\TrabajoPracticoJSON\obj\Debug\net8.0\TrabajoPracticoJSON.AssemblyInfo.cs
+C:\Users\Hitman\Documents\GitHub\GonzaGit\json\TrabajoPracticoJson\TrabajoPracticoJSON\obj\Debug\net8.0\TrabajoPracticoJSON.csproj.CoreCompileInputs.cache
+C:\Users\Hitman\Documents\GitHub\GonzaGit\json\TrabajoPracticoJson\TrabajoPracticoJSON\obj\Debug\net8.0\TrabajoPracticoJSON.sourcelink.json
+C:\Users\Hitman\Documents\GitHub\GonzaGit\json\TrabajoPracticoJson\TrabajoPracticoJSON\obj\Debug\net8.0\TrabajoPracticoJSON.dll
+C:\Users\Hitman\Documents\GitHub\GonzaGit\json\TrabajoPracticoJson\TrabajoPracticoJSON\obj\Debug\net8.0\refint\TrabajoPracticoJSON.dll
+C:\Users\Hitman\Documents\GitHub\GonzaGit\json\TrabajoPracticoJson\TrabajoPracticoJSON\obj\Debug\net8.0\TrabajoPracticoJSON.pdb
+C:\Users\Hitman\Documents\GitHub\GonzaGit\json\TrabajoPracticoJson\TrabajoPracticoJSON\obj\Debug\net8.0\TrabajoPracticoJSON.genruntimeconfig.cache
+C:\Users\Hitman\Documents\GitHub\GonzaGit\json\TrabajoPracticoJson\TrabajoPracticoJSON\obj\Debug\net8.0\ref\TrabajoPracticoJSON.dll
