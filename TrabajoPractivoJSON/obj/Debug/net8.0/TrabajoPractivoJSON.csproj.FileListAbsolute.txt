@@ -1,0 +1,4 @@
+C:\Users\TheSortty\Desktop\JSON\TrabajoPractivoJSON\obj\Debug\net8.0\TrabajoPractivoJSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheSortty\Desktop\JSON\TrabajoPractivoJSON\obj\Debug\net8.0\TrabajoPractivoJSON.AssemblyInfoInputs.cache
+C:\Users\TheSortty\Desktop\JSON\TrabajoPractivoJSON\obj\Debug\net8.0\TrabajoPractivoJSON.AssemblyInfo.cs
+C:\Users\TheSortty\Desktop\JSON\TrabajoPractivoJSON\obj\Debug\net8.0\TrabajoPractivoJSON.csproj.CoreCompileInputs.cache
